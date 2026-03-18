@@ -1,4 +1,6 @@
-## 🐥 zhoda-lii's collection of cpro repos 👩‍💻 
+## RDP CPRO Winter 2024
+
+Contains projects, assignments and collaborative code for computer programming diploma program from Winter 2024 to Fall 2025.  
 
 <!--
 
